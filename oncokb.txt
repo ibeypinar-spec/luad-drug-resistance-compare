@@ -1,0 +1,2114 @@
+OncoKB™
+Levels of Evidence
+Actionable Genes
+Oncology Therapies
+CDx
+Cancer Genes
+API / License
+About
+News
+FAQ
+mskcc-logo
+EGFRAlso known as ERBB1, ERRP, ERBB
+Oncogene
+NCBI Gene:
+1956
+|
+Hide additional gene information 
+NCBI Gene	1956
+Ensembl Gene	
+ENSG00000146648 (
+GRCh37
+/
+GRCh38
+)
+Location	
+Chr7:55086714-55324313 (GRCh37)
+Chr7:55019017-55211628 (GRCh38)
+Ensembl Transcript	
+ENST00000275493 (
+GRCh37
+/
+GRCh38
+)
+RefSeq	
+NM_005228.3 (
+GRCh37
+/
+GRCh38
+)
+EGFR, a receptor tyrosine kinase, is altered by amplification and/or mutation in lung and brain cancers among others.
+Hide EGFR background 
+EGFR (Epidermal Growth Factor Receptor) is a transmembrane receptor that is activated by EGF family extracellular ligands (PMID: 24691965). EGFR is a member of the ErbB family of receptors, including the receptors ERBB2, ERBB3, and ERBB4. Binding of EGFR by its ligands, including EGF ligands and transforming growth factor alpha (TGFα), activates downstream signaling pathways including the canonical MAPK and PI3K/AKT/mTOR signaling cascades (PMID: 22239438). EGFR can homodimerize or heterodimerize with other ErbB family members to initiate signaling (PMID: 25621509). Activation of EGFR-mediated signaling ultimately results in cellular proliferation, migration, and differentiation (PMID: 18045542). While EGFR usually is expressed at low levels in normal adult tissues, hyperactivation of this receptor by somatic mutations and/or amplification of the EGFR gene is found in many cancer types such as lung, brain, colorectal and head and neck cancer (PMID: 10880430, 17318210). In lung cancer, activating mutations in EGFR result in a constitutively activated form of the receptor that is sensitive to EGFR tyrosine kinase inhibition (PMID: 15329413). Tyrosine kinase inhibitors targeting EGFR, including afatinib, erlotinib, and gefitinib, have been approved for first-line treatment of non-small cell lung cancer patients (PMID: 14977817, 24868098, 26039556, 25963089). Second site resistance mutations in EGFR can occur in cancers previously treated with these inhibitors (PMID: 29068003). Osimertinib is a second-line tyrosine kinase inhibitor that has been FDA approved for relapsed patients with non-small cell lung cancer with the EGFR resistance mutations T790M, L858R, and exon 19 deletions (PMID: 27923840). Additionally, copy number amplification of the EGFR gene result in receptor overexpression in several cancer types, including brain and colorectal cancers, and these cancers may also be sensitive to EGFR inhibition (PMID: 11426640).
+Somatic
+Germline
+EGFR
+Somatic
+Gene Overview
+Clinical Implications
+Annotated Alterations
+Highest Level of Evidence
+Therapeutic
+FDA
+2
+Annotated Alterations
+Oncogenic
+171
+Resistance
+11
+Neutral
+45
+Inconclusive
+121
+Hide prevalence data 
+Annotated Mutations in MSK-IMPACT™ Clinical Sequencing Cohort (Zehir et al., Nat Med 2017)
+Y-Axis Max:
+131
+
+
+L858R
+Rece..
+Furin-like
+Recep..
+GF_rec..
+Pkinase_Tyr
+0
+1210aa
+200
+400
+600
+800
+1000
+0
+131
+# EGFR Mutations
+171 Oncogenic
+11 Resistance
+45 Neutral
+121 Inconclusive
+Cancer Types with EGFR Mutations
+Clinical Implications
+Therapeutic
+FDA-Recognized Content
+Cancer type-specific EGFR alterations that may predict response to a targeted drug and the corresponding OncoKB™ level of evidence assigning their level of clinical actionability.
+If you notice any mistakes or omissions, please reach out to us. 
+Search ...
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Afatinib
+3
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Amivantamab + Chemotherapy
+1
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Amivantamab + Lazertinib
+1
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Dacomitinib
+2
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Erlotinib
+2
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Erlotinib + Ramucirumab
+2
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Gefitinib
+6
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Osimertinib
+4
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Osimertinib + Chemotherapy
+1
+Exon 20 in-frame insertions (762_823ins)
+Non-Small Cell Lung Cancer
+Amivantamab
+3
+Exon 20 in-frame insertions (762_823ins)
+Non-Small Cell Lung Cancer
+Amivantamab + Chemotherapy
+1
+Exon 20 in-frame insertions (762_823ins)
+Non-Small Cell Lung Cancer
+Sunvozertinib
+1
+G719
+Non-Small Cell Lung Cancer
+Afatinib
+3
+L858R
+Non-Small Cell Lung Cancer
+Afatinib
+3
+L858R
+Non-Small Cell Lung Cancer
+Amivantamab + Chemotherapy
+1
+L858R
+Non-Small Cell Lung Cancer
+Amivantamab + Lazertinib
+1
+L858R
+Non-Small Cell Lung Cancer
+Dacomitinib
+2
+L858R
+Non-Small Cell Lung Cancer
+Erlotinib
+2
+L858R
+Non-Small Cell Lung Cancer
+Erlotinib + Ramucirumab
+2
+L858R
+Non-Small Cell Lung Cancer
+Gefitinib
+6
+L858R
+Non-Small Cell Lung Cancer
+Osimertinib
+4
+L858R
+Non-Small Cell Lung Cancer
+Osimertinib + Chemotherapy
+1
+L861Q
+Non-Small Cell Lung Cancer
+Afatinib
+5
+Oncogenic Mutations
+Non-Small Cell Lung Cancer
+Datopotamab Deruxtecan
+2
+S768I
+Non-Small Cell Lung Cancer
+Afatinib
+4
+T790M
+Non-Small Cell Lung Cancer
+Osimertinib
+2
+Exon 20 in-frame insertions (excluding A763_Y764insFQEA)
+Non-Small Cell Lung Cancer
+Afatinib
+10
+Exon 20 in-frame insertions (excluding A763_Y764insFQEA)
+Non-Small Cell Lung Cancer
+Erlotinib
+10
+Exon 20 in-frame insertions (excluding A763_Y764insFQEA)
+Non-Small Cell Lung Cancer
+Gefitinib
+10
+T790M
+Non-Small Cell Lung Cancer
+Afatinib
+4
+T790M
+Non-Small Cell Lung Cancer
+Erlotinib
+4
+T790M
+Non-Small Cell Lung Cancer
+Gefitinib
+4
+A763_Y764insFQEA
+Non-Small Cell Lung Cancer
+Erlotinib
+4
+G719
+Non-Small Cell Lung Cancer
+Amivantamab + Chemotherapy
+1
+G719
+Non-Small Cell Lung Cancer
+Dacomitinib
+1
+G719
+Non-Small Cell Lung Cancer
+Erlotinib
+1
+G719
+Non-Small Cell Lung Cancer
+Gefitinib
+1
+G719
+Non-Small Cell Lung Cancer
+Osimertinib
+2
+L861Q
+Non-Small Cell Lung Cancer
+Amivantamab + Chemotherapy
+1
+L861Q
+Non-Small Cell Lung Cancer
+Dacomitinib
+1
+L861Q
+Non-Small Cell Lung Cancer
+Erlotinib
+1
+L861Q
+Non-Small Cell Lung Cancer
+Gefitinib
+1
+L861Q
+Non-Small Cell Lung Cancer
+Osimertinib
+2
+S768I
+Non-Small Cell Lung Cancer
+Amivantamab + Chemotherapy
+1
+S768I
+Non-Small Cell Lung Cancer
+Dacomitinib
+1
+S768I
+Non-Small Cell Lung Cancer
+Erlotinib
+1
+S768I
+Non-Small Cell Lung Cancer
+Gefitinib
+1
+S768I
+Non-Small Cell Lung Cancer
+Osimertinib
+2
+Amplification
+Esophagogastric Cancer
+Cetuximab
+3
+Amplification
+Esophagogastric Cancer
+Cetuximab + Chemotherapy
+3
+Amplification
+Esophagogastric Cancer
+Panitumumab
+3
+Amplification
+Esophagogastric Cancer
+Panitumumab + Chemotherapy
+3
+E709_T710delinsD
+Non-Small Cell Lung Cancer
+Afatinib
+4
+Exon 19 in-frame deletions (729_761del)
+Non-Small Cell Lung Cancer
+Patritumab Deruxtecan
+6
+Exon 19 in-frame insertions (729_761ins)
+Non-Small Cell Lung Cancer
+Erlotinib
+6
+Exon 19 in-frame insertions (729_761ins)
+Non-Small Cell Lung Cancer
+Gefitinib
+4
+Exon 19 in-frame insertions (729_761ins)
+Non-Small Cell Lung Cancer
+Patritumab Deruxtecan
+6
+Exon 20 in-frame insertions (762_823ins)
+Non-Small Cell Lung Cancer
+Poziotinib
+3
+Exon 20 in-frame insertions (762_823ins)
+Non-Small Cell Lung Cancer
+Zipalertinib
+4
+G719
+Non-Small Cell Lung Cancer
+Amivantamab + Lazertinib
+1
+G719
+Non-Small Cell Lung Cancer
+Patritumab Deruxtecan
+6
+G724S
+Non-Small Cell Lung Cancer
+Afatinib
+4
+Kinase Domain Duplication
+Non-Small Cell Lung Cancer
+Afatinib
+2
+L718Q
+Non-Small Cell Lung Cancer
+Afatinib
+3
+L718V
+Non-Small Cell Lung Cancer
+Afatinib
+4
+L858R
+Non-Small Cell Lung Cancer
+Patritumab Deruxtecan
+6
+L861Q
+Non-Small Cell Lung Cancer
+Amivantamab + Lazertinib
+1
+L861Q
+Non-Small Cell Lung Cancer
+Patritumab Deruxtecan
+6
+S768I
+Non-Small Cell Lung Cancer
+Amivantamab + Lazertinib
+1
+S768I
+Non-Small Cell Lung Cancer
+Patritumab Deruxtecan
+6
+A289V
+Glioma
+Lapatinib
+3
+A763_Y764insFQEA
+Non-Small Cell Lung Cancer
+Afatinib
+1
+Amplification
+Glioma
+Lapatinib
+3
+D761Y
+Non-Small Cell Lung Cancer
+Osimertinib
+2
+Exon 19 in-frame insertions (729_761ins)
+Non-Small Cell Lung Cancer
+Afatinib
+1
+Kinase Domain Duplication
+Non-Small Cell Lung Cancer
+Erlotinib
+4
+Kinase Domain Duplication
+Non-Small Cell Lung Cancer
+Gefitinib
+2
+L747P
+Non-Small Cell Lung Cancer
+Afatinib
+2
+R108K
+Glioma
+Lapatinib
+3
+T263P
+Glioma
+Lapatinib
+3
+C797G
+Non-Small Cell Lung Cancer
+Osimertinib
+2
+C797S
+Non-Small Cell Lung Cancer
+Osimertinib
+2
+D761Y
+Non-Small Cell Lung Cancer
+Gefitinib
+4
+G465E
+Colorectal Cancer
+Cetuximab
+2
+G465E
+Colorectal Cancer
+Panitumumab
+2
+G465R
+Colorectal Cancer
+Cetuximab
+2
+G465R
+Colorectal Cancer
+Panitumumab
+2
+G724S
+Non-Small Cell Lung Cancer
+Osimertinib
+5
+L718Q
+Non-Small Cell Lung Cancer
+Osimertinib
+7
+L718V
+Non-Small Cell Lung Cancer
+Osimertinib
+4
+L792F
+Non-Small Cell Lung Cancer
+Osimertinib
+4
+L792H
+Non-Small Cell Lung Cancer
+Osimertinib
+5
+S464L
+Colorectal Cancer
+Cetuximab
+3
+S464L
+Colorectal Cancer
+Panitumumab
+3
+S492R
+Colorectal Cancer
+Cetuximab
+4
+V441D
+Colorectal Cancer
+Cetuximab
+2
+V441D
+Colorectal Cancer
+Panitumumab
+2
+V441G
+Colorectal Cancer
+Cetuximab
+2
+V441G
+Colorectal Cancer
+Panitumumab
+2
+Loading...
+Annotated Alterations
+Oncogenic and mutation effects of all OncoKB™ curated EGFR alterations.
+Search ...
+Amplification
+Oncogenic
+Gain-of-function
+C-terminal domain
+Oncogenic
+Gain-of-function
+EGFR-PURB Fusion
+Inconclusive
+Inconclusive
+EGFR-RAD51 Fusion
+Oncogenic
+Gain-of-function
+EGFR-SEPT14 Fusion
+Oncogenic
+Gain-of-function
+HMGA2-EGFR Fusion
+Likely Oncogenic
+Likely Gain-of-function
+Kinase Domain Duplication
+Oncogenic
+Gain-of-function
+vII
+Oncogenic
+Gain-of-function
+vIII
+Oncogenic
+Gain-of-function
+L38V
+Likely Neutral
+Likely Neutral
+E45Q
+Likely Neutral
+Likely Neutral
+H47Y
+Likely Neutral
+Likely Loss-of-function
+L62R
+Likely Oncogenic
+Likely Gain-of-function
+G63R
+Likely Oncogenic
+Likely Gain-of-function
+R98Q
+Likely Neutral
+Likely Neutral
+Q105H
+Likely Neutral
+Likely Neutral
+R108G
+Likely Oncogenic
+Likely Gain-of-function
+R108K
+Oncogenic
+Gain-of-function
+E114K
+Likely Oncogenic
+Likely Gain-of-function
+S116F
+Likely Neutral
+Likely Neutral
+K129E
+Inconclusive
+Inconclusive
+M137V
+Inconclusive
+Inconclusive
+H145R
+Inconclusive
+Inconclusive
+V148M
+Likely Oncogenic
+Likely Gain-of-function
+V159E
+Likely Neutral
+Likely Neutral
+R165Q
+Likely Oncogenic
+Likely Gain-of-function
+M178I
+Likely Oncogenic
+Likely Gain-of-function
+Q181H
+Likely Neutral
+Likely Neutral
+D191N
+Likely Neutral
+Likely Neutral
+S198R
+Likely Neutral
+Likely Neutral
+S220P
+Likely Neutral
+Likely Neutral
+R222C
+Likely Oncogenic
+Likely Gain-of-function
+R222H
+Inconclusive
+Inconclusive
+S229C
+Oncogenic
+Gain-of-function
+D247Y
+Inconclusive
+Inconclusive
+R252C
+Likely Oncogenic
+Likely Gain-of-function
+R252P
+Likely Oncogenic
+Likely Gain-of-function
+D256Y
+Likely Oncogenic
+Likely Gain-of-function
+T263P
+Oncogenic
+Gain-of-function
+P272L
+Likely Neutral
+Likely Loss-of-function
+M277E
+Likely Oncogenic
+Likely Gain-of-function
+E282K
+Likely Neutral
+Likely Neutral
+A289D
+Likely Oncogenic
+Likely Gain-of-function
+A289I
+Likely Oncogenic
+Likely Gain-of-function
+A289T
+Likely Oncogenic
+Likely Gain-of-function
+A289V
+Oncogenic
+Gain-of-function
+V292L
+Likely Oncogenic
+Likely Gain-of-function
+V292M
+Likely Oncogenic
+Likely Gain-of-function
+V300M
+Inconclusive
+Inconclusive
+H304Y
+Likely Oncogenic
+Likely Gain-of-function
+S306L
+Likely Neutral
+Likely Neutral
+R324L
+Oncogenic
+Gain-of-function
+E330K
+Oncogenic
+Gain-of-function
+T354M
+Likely Neutral
+Likely Loss-of-function
+T363I
+Likely Oncogenic
+Likely Gain-of-function
+T363N
+Likely Neutral
+Likely Neutral
+P373Q
+Likely Neutral
+Likely Neutral
+R377S
+Inconclusive
+Inconclusive
+G428D
+Likely Neutral
+Loss-of-function
+V441D
+Resistance
+Inconclusive
+V441G
+Resistance
+Inconclusive
+V441I
+Inconclusive
+Inconclusive
+S442I
+Likely Oncogenic
+Likely Gain-of-function
+S464L
+Resistance
+Likely Loss-of-function
+G465E
+Likely Oncogenic
+Likely Gain-of-function
+G465R
+Likely Oncogenic
+Likely Gain-of-function
+K467T
+Likely Neutral
+Likely Neutral
+I491M
+Likely Oncogenic
+Likely Neutral
+S492R
+Resistance
+Inconclusive
+A508V
+Likely Neutral
+Likely Neutral
+S511Y
+Inconclusive
+Inconclusive
+R521K
+Inconclusive
+Inconclusive
+N528D
+Likely Neutral
+Likely Neutral
+D587H
+Likely Oncogenic
+Gain-of-function
+G588S
+Likely Oncogenic
+Likely Gain-of-function
+P589L
+Likely Oncogenic
+Likely Gain-of-function
+V592I
+Likely Neutral
+Likely Neutral
+P596L
+Likely Oncogenic
+Likely Gain-of-function
+P596R
+Inconclusive
+Inconclusive
+P596S
+Likely Oncogenic
+Likely Gain-of-function
+G598A
+Likely Neutral
+Likely Neutral
+G598V
+Oncogenic
+Gain-of-function
+A611T
+Inconclusive
+Inconclusive
+C620Y
+Oncogenic
+Gain-of-function
+C628Y
+Likely Neutral
+Neutral
+S645C
+Likely Oncogenic
+Likely Gain-of-function
+A647T
+Resistance
+Inconclusive
+G652R
+Likely Oncogenic
+Likely Gain-of-function
+L658Q
+Likely Oncogenic
+Likely Gain-of-function
+E685K
+Likely Neutral
+Likely Loss-of-function
+L688P
+Likely Neutral
+Likely Loss-of-function
+V689M
+Likely Oncogenic
+Likely Gain-of-function
+P691S
+Inconclusive
+Inconclusive
+L692F
+Inconclusive
+Inconclusive
+L692P
+Inconclusive
+Inconclusive
+L692V
+Inconclusive
+Inconclusive
+P694S
+Inconclusive
+Inconclusive
+N700D
+Inconclusive
+Inconclusive
+Q701L
+Inconclusive
+Inconclusive
+L703F
+Inconclusive
+Inconclusive
+L703P
+Inconclusive
+Inconclusive
+L704N
+Likely Neutral
+Loss-of-function
+R705K
+Inconclusive
+Inconclusive
+I706T
+Inconclusive
+Inconclusive
+K708R
+Likely Oncogenic
+Likely Gain-of-function
+E709A
+Oncogenic
+Gain-of-function
+E709G
+Likely Oncogenic
+Likely Gain-of-function
+E709K
+Oncogenic
+Gain-of-function
+E709Q
+Likely Oncogenic
+Likely Gain-of-function
+E709V
+Likely Oncogenic
+Likely Gain-of-function
+E709_T710delinsD
+Oncogenic
+Gain-of-function
+T710A
+Inconclusive
+Inconclusive
+E711K
+Inconclusive
+Inconclusive
+E711_F712del
+Inconclusive
+Inconclusive
+F712L
+Likely Neutral
+Likely Neutral
+F712S
+Inconclusive
+Inconclusive
+K714N
+Inconclusive
+Inconclusive
+L718Q
+Resistance
+Inconclusive
+L718V
+Likely Oncogenic
+Likely Gain-of-function
+G719A
+Oncogenic
+Gain-of-function
+G719C
+Oncogenic
+Likely Gain-of-function
+G719D
+Likely Oncogenic
+Likely Gain-of-function
+G719S
+Oncogenic
+Gain-of-function
+S720F
+Likely Neutral
+Likely Neutral
+S720P
+Inconclusive
+Inconclusive
+G721D
+Inconclusive
+Inconclusive
+G721S
+Inconclusive
+Inconclusive
+F723L
+Inconclusive
+Inconclusive
+G724S
+Oncogenic
+Gain-of-function
+T725M
+Likely Oncogenic
+Gain-of-function
+V726M
+Inconclusive
+Inconclusive
+Y727H
+Inconclusive
+Inconclusive
+G729R
+Inconclusive
+Inconclusive
+Exon 19 in-frame deletions (729_761del)
+Likely Oncogenic
+Likely Gain-of-function
+Exon 19 in-frame insertions (729_761ins)
+Likely Oncogenic
+Likely Gain-of-function
+W731L
+Likely Oncogenic
+Gain-of-function
+E734Q
+Likely Oncogenic
+Gain-of-function
+G735S
+Oncogenic
+Gain-of-function
+K737T
+Inconclusive
+Inconclusive
+P741S
+Likely Neutral
+Likely Neutral
+V742A
+Likely Oncogenic
+Likely Gain-of-function
+V742I
+Inconclusive
+Inconclusive
+A743V
+Inconclusive
+Inconclusive
+I744M
+Likely Neutral
+Likely Neutral
+I744_K745delinsKIPVAI
+Oncogenic
+Gain-of-function
+K745M
+Likely Neutral
+Loss-of-function
+K745_E746insIPVAIK
+Likely Oncogenic
+Likely Gain-of-function
+K745_E746insVPVAIK
+Likely Oncogenic
+Likely Gain-of-function
+K745_A750del
+Oncogenic
+Gain-of-function
+E746G
+Inconclusive
+Inconclusive
+E746Q
+Inconclusive
+Inconclusive
+E746V
+Inconclusive
+Inconclusive
+E746_L747delinsIP
+Likely Oncogenic
+Likely Gain-of-function
+E746_A750del
+Oncogenic
+Gain-of-function
+E746_A750delinsQ
+Oncogenic
+Gain-of-function
+E746_T751delinsA
+Oncogenic
+Gain-of-function
+E746_T751delinsL
+Oncogenic
+Gain-of-function
+E746_T751delinsVA
+Oncogenic
+Gain-of-function
+E746_T751insIP
+Oncogenic
+Gain-of-function
+E746_S752delinsA
+Oncogenic
+Gain-of-function
+E746_S752delinsI
+Oncogenic
+Gain-of-function
+E746_S752delinsV
+Oncogenic
+Gain-of-function
+L747F
+Inconclusive
+Inconclusive
+L747P
+Oncogenic
+Gain-of-function
+L747S
+Likely Oncogenic
+Gain-of-function
+L747V
+Likely Oncogenic
+Likely Gain-of-function
+L747_E749del
+Oncogenic
+Gain-of-function
+L747_A750del
+Oncogenic
+Gain-of-function
+L747_A750delinsP
+Oncogenic
+Gain-of-function
+L747_T751del
+Oncogenic
+Gain-of-function
+L747_T751delinsP
+Oncogenic
+Gain-of-function
+L747_S752del
+Oncogenic
+Gain-of-function
+L747_P753del
+Oncogenic
+Gain-of-function
+L747_P753delinsS
+Oncogenic
+Gain-of-function
+L747_K754delinsATSPE
+Inconclusive
+Inconclusive
+A750P
+Oncogenic
+Gain-of-function
+A750T
+Inconclusive
+Inconclusive
+A750V
+Inconclusive
+Inconclusive
+A750_E758del
+Oncogenic
+Gain-of-function
+A750_E758delinsP
+Oncogenic
+Gain-of-function
+A750_I759delinsGN
+Likely Oncogenic
+Likely Gain-of-function
+T751I
+Inconclusive
+Inconclusive
+S752_I759del
+Likely Oncogenic
+Likely Gain-of-function
+P753Q
+Inconclusive
+Inconclusive
+P753S
+Inconclusive
+Inconclusive
+K754E
+Likely Oncogenic
+Likely Gain-of-function
+K754_I759del
+Likely Oncogenic
+Likely Gain-of-function
+A755D
+Inconclusive
+Inconclusive
+A755G
+Inconclusive
+Inconclusive
+E758G
+Inconclusive
+Inconclusive
+L760P
+Inconclusive
+Inconclusive
+D761N
+Likely Oncogenic
+Gain-of-function
+D761Y
+Resistance
+Likely Gain-of-function
+Exon 20 in-frame insertions (762_823ins)
+Likely Oncogenic
+Likely Gain-of-function
+A763insLQEA
+Inconclusive
+Inconclusive
+A763V
+Inconclusive
+Inconclusive
+A763_Y764insFQEA
+Oncogenic
+Gain-of-function
+Y764_D770dup
+Likely Oncogenic
+Likely Gain-of-function
+V765A
+Inconclusive
+Inconclusive
+V765L
+Inconclusive
+Inconclusive
+V765M
+Inconclusive
+Inconclusive
+A767T
+Inconclusive
+Inconclusive
+A767_S768insASV
+Inconclusive
+Inconclusive
+A767_V769del
+Inconclusive
+Inconclusive
+A767_V769dup
+Oncogenic
+Gain-of-function
+S768I
+Oncogenic
+Gain-of-function
+S768T
+Likely Oncogenic
+Likely Gain-of-function
+S768_V769insSVD
+Inconclusive
+Inconclusive
+S768_V769insVAS
+Oncogenic
+Gain-of-function
+S768_D770dup
+Oncogenic
+Gain-of-function
+V769L
+Inconclusive
+Inconclusive
+V769M
+Likely Oncogenic
+Gain-of-function
+V769_D770insASV
+Oncogenic
+Gain-of-function
+V769_D770insGVV
+Oncogenic
+Gain-of-function
+D770delinsGY
+Likely Oncogenic
+Likely Gain-of-function
+D770_N771insD
+Oncogenic
+Gain-of-function
+D770_N771insG
+Likely Oncogenic
+Likely Gain-of-function
+D770_N771insGF
+Likely Oncogenic
+Likely Gain-of-function
+D770_N771insGL
+Likely Oncogenic
+Likely Gain-of-function
+D770_N771insNPG
+Oncogenic
+Gain-of-function
+D770_N771insSVD
+Oncogenic
+Gain-of-function
+D770_N771insVDSVDNP
+Oncogenic
+Gain-of-function
+D770_N771insY
+Likely Oncogenic
+Likely Gain-of-function
+D770_P772dup
+Oncogenic
+Gain-of-function
+N771_P772insH
+Likely Oncogenic
+Likely Gain-of-function
+N771_P772insHH
+Likely Oncogenic
+Likely Gain-of-function
+N771_H773dup
+Oncogenic
+Gain-of-function
+P772R
+Oncogenic
+Gain-of-function
+P772_H773dup
+Likely Oncogenic
+Likely Gain-of-function
+P772_H773insTPNP
+Likely Oncogenic
+Likely Gain-of-function
+P772_H773insYNP
+Oncogenic
+Gain-of-function
+P772_V774dup
+Oncogenic
+Gain-of-function
+H773insLGNP
+Oncogenic
+Gain-of-function
+H773L
+Oncogenic
+Gain-of-function
+H773R
+Inconclusive
+Inconclusive
+H773Y
+Inconclusive
+Inconclusive
+H773_V774insNPH
+Likely Oncogenic
+Likely Gain-of-function
+V774A
+Inconclusive
+Inconclusive
+V774L
+Likely Neutral
+Likely Neutral
+V774M
+Inconclusive
+Inconclusive
+V774_C775insAV
+Inconclusive
+Inconclusive
+V774_C775insPR
+Inconclusive
+Inconclusive
+R776C
+Likely Oncogenic
+Gain-of-function
+R776G
+Likely Oncogenic
+Likely Gain-of-function
+R776H
+Oncogenic
+Gain-of-function
+R776S
+Inconclusive
+Inconclusive
+L777G
+Inconclusive
+Inconclusive
+G779F
+Inconclusive
+Inconclusive
+G779S
+Inconclusive
+Inconclusive
+T783A
+Inconclusive
+Inconclusive
+S784F
+Likely Oncogenic
+Gain-of-function
+T785A
+Likely Oncogenic
+Gain-of-function
+V786M
+Inconclusive
+Inconclusive
+Q787R
+Oncogenic
+Gain-of-function
+T790M
+Oncogenic
+Gain-of-function
+L792F
+Likely Oncogenic
+Likely Gain-of-function
+L792H
+Likely Oncogenic
+Likely Gain-of-function
+M793L
+Inconclusive
+Inconclusive
+P794R
+Inconclusive
+Inconclusive
+G796D
+Oncogenic
+Likely Gain-of-function
+G796R
+Likely Oncogenic
+Likely Gain-of-function
+G796S
+Likely Oncogenic
+Gain-of-function
+C797G
+Resistance
+Inconclusive
+C797S
+Resistance
+Inconclusive
+C797Y
+Likely Oncogenic
+Gain-of-function
+L798H
+Inconclusive
+Inconclusive
+Y801H
+Likely Oncogenic
+Gain-of-function
+V802I
+Inconclusive
+Inconclusive
+R803W
+Inconclusive
+Inconclusive
+E804G
+Likely Oncogenic
+Gain-of-function
+K806A
+Inconclusive
+Inconclusive
+K806E
+Inconclusive
+Inconclusive
+G810S
+Likely Oncogenic
+Gain-of-function
+S811F
+Inconclusive
+Inconclusive
+L814P
+Inconclusive
+Inconclusive
+N826S
+Oncogenic
+Gain-of-function
+N826Y
+Inconclusive
+Inconclusive
+R831C
+Likely Oncogenic
+Likely Gain-of-function
+R831H
+Likely Neutral
+Likely Neutral
+L833F
+Inconclusive
+Inconclusive
+L833V
+Oncogenic
+Gain-of-function
+V834C
+Inconclusive
+Inconclusive
+V834I
+Likely Oncogenic
+Likely Gain-of-function
+V834L
+Inconclusive
+Inconclusive
+H835L
+Likely Oncogenic
+Likely Gain-of-function
+R836C
+Inconclusive
+Inconclusive
+D837N
+Likely Neutral
+Likely Loss-of-function
+L838P
+Inconclusive
+Inconclusive
+L838V
+Likely Oncogenic
+Gain-of-function
+A839T
+Inconclusive
+Inconclusive
+R841K
+Likely Neutral
+Likely Loss-of-function
+N842S
+Inconclusive
+Inconclusive
+V843I
+Likely Oncogenic
+Gain-of-function
+L844V
+Resistance
+Inconclusive
+T847A
+Inconclusive
+Inconclusive
+T847I
+Inconclusive
+Inconclusive
+P848L
+Likely Neutral
+Likely Neutral
+H850D
+Inconclusive
+Inconclusive
+V851A
+Likely Neutral
+Loss-of-function
+V851I
+Inconclusive
+Inconclusive
+I853T
+Likely Neutral
+Loss-of-function
+T854A
+Resistance
+Inconclusive
+T854I
+Inconclusive
+Inconclusive
+T854S
+Likely Oncogenic
+Likely Gain-of-function
+D855G
+Inconclusive
+Inconclusive
+F856V
+Inconclusive
+Inconclusive
+G857E
+Inconclusive
+Inconclusive
+G857R
+Inconclusive
+Inconclusive
+L858M
+Inconclusive
+Inconclusive
+L858Q
+Likely Oncogenic
+Likely Gain-of-function
+L858R
+Oncogenic
+Gain-of-function
+A859T
+Likely Neutral
+Likely Neutral
+A859_L883delinsV
+Inconclusive
+Inconclusive
+K860E
+Inconclusive
+Inconclusive
+K860I
+Inconclusive
+Inconclusive
+L861F
+Inconclusive
+Inconclusive
+L861P
+Inconclusive
+Inconclusive
+L861Q
+Oncogenic
+Gain-of-function
+L861R
+Oncogenic
+Gain-of-function
+L862V
+Inconclusive
+Inconclusive
+G863D
+Likely Oncogenic
+Likely Gain-of-function
+G863S
+Inconclusive
+Inconclusive
+A864T
+Oncogenic
+Gain-of-function
+E865K
+Likely Oncogenic
+Likely Gain-of-function
+E866K
+Likely Neutral
+Loss-of-function
+E868G
+Likely Oncogenic
+Gain-of-function
+H870R
+Likely Neutral
+Likely Neutral
+A871E
+Inconclusive
+Inconclusive
+A871G
+Likely Oncogenic
+Likely Gain-of-function
+A871T
+Inconclusive
+Inconclusive
+A871V
+Inconclusive
+Inconclusive
+G873E
+Inconclusive
+Inconclusive
+G873Q
+Inconclusive
+Inconclusive
+G874S
+Inconclusive
+Inconclusive
+E884K
+Oncogenic
+Gain-of-function
+Y891D
+Likely Neutral
+Likely Neutral
+S899N
+Inconclusive
+Inconclusive
+S921R
+Inconclusive
+Inconclusive
+E931G
+Likely Oncogenic
+Likely Gain-of-function
+R932C
+Inconclusive
+Inconclusive
+I941R
+Likely Neutral
+Likely Loss-of-function
+vV (R958*)
+Oncogenic
+Gain-of-function
+R977C
+Inconclusive
+Inconclusive
+G983R
+Oncogenic
+Gain-of-function
+H988P
+Inconclusive
+Inconclusive
+D1009N
+Likely Neutral
+Likely Neutral
+T1041A
+Likely Oncogenic
+Likely Gain-of-function
+A1118S
+Inconclusive
+Inconclusive
+Loading...
+Please review the terms of use before continuing.
+When using OncoKB™, please cite: Suehnholz et al., Cancer Discovery 2024 and Chakravarty et al., JCO PO 2017.
+MSK
+CMO
+cBioPortal
+OncoTree
+mskcc-logo
+Terms of UseContact UsLinkedInAPIPrivacyCookie Settings
+Last data update: 02/27/2026
+© 2026 Memorial Sloan Kettering Cancer Center
+
+
+OncoKB™
+Levels of Evidence
+Actionable Genes
+Oncology Therapies
+CDx
+Cancer Genes
+API / License
+About
+News
+FAQ
+mskcc-logo
+MET
+Amplification
+Non-Small Cell Lung Cancer
+MET
+Amplification
+Somatic
+in
+Non-Small Cell Lung Cancer
+NCBI Gene:
+4233
+|
+Show additional gene information 
+Variant Overview
+Defined as focal copy number amplification that results in an increase in the gene copy number of the MET gene.
+MET, a receptor tyrosine kinase, is recurrently altered by mutation or amplification in various cancer types.
+MET amplification is known to be oncogenic.
+Show mutation effect description 
+Oncogenicity
+Oncogenic
+Biological Effect
+Gain-of-function
+Therapeutic
+FDA
+2
+Clinical Implications of This Biomarker in Non-Small Cell Lung Cancer (NSCLC)
+Therapeutic Implications
+FDA-Recognized Biomarker
+Therapeutic Implications
+Crizotinib, capmatinib and tepotinib are NCCN-compendium listed for the treatment of patients with high-level MET-amplified non-small cell lung cancer.
+
+FDA-approved and/or NCCN-recommended drug association(s):
+Level of Evidence	Drugs	Alterations	Level-associated cancer types	Citations	Description
+Capmatinib	Amplification	Non-Small Cell Lung Cancer	1	
+Crizotinib	Amplification	Non-Small Cell Lung Cancer	6	
+Tepotinib	Amplification	Non-Small Cell Lung Cancer	1	
+Investigational drug association(s):
+Level of Evidence	Drugs	Alterations	Level-associated cancer types	Citations	Description
+Telisotuzumab Vedotin	Amplification	Non-Small Cell Lung Cancer	1	
+Erlotinib	Amplification	Non-Small Cell Lung Cancer	5	
+Gefitinib	Amplification	Non-Small Cell Lung Cancer	5	
+Osimertinib	Amplification	Non-Small Cell Lung Cancer	5	
+FDA-Recognized Biomarker
+Tumor type-specific MET alterations and the corresponding FDA Level of Evidence assigning their clinical significance. The assigned FDA level of evidence is based on these alterations being tested in Formalin Fixed Paraffin Embedded (FFPE) specimen types, except in cases where specimen type is not specified.
+
+FDA Level	Alterations	Level-associated cancer types
+2
+Amplification	Non-Small Cell Lung Cancer
+Please review the terms of use before continuing.
+When using OncoKB™, please cite: Suehnholz et al., Cancer Discovery 2024 and Chakravarty et al., JCO PO 2017.
+MSK
+CMO
+cBioPortal
+OncoTree
+mskcc-logo
+Terms of UseContact UsLinkedInAPIPrivacyCookie Settings
+Last data update: 02/27/2026
+© 2026 Memorial Sloan Kettering Cancer Center
+
+OncoKB™
+Levels of Evidence
+Actionable Genes
+Oncology Therapies
+CDx
+Cancer Genes
+API / License
+About
+News
+FAQ
+mskcc-logo
+ALKAlso known as CD246
+Oncogene
+NCBI Gene:
+238
+|
+Show additional gene information 
+ALK, a receptor tyrosine kinase, is recurrently altered by chromosomal rearrangements in various cancer types including anaplastic large cell lymphoma, non-small cell lung cancer and inflammatory myofibroblastic tumors.
+Show ALK background 
+Somatic
+Germline
+Gene Overview
+Clinical Implications
+Annotated Alterations
+Highest Level of Evidence
+Therapeutic
+Diagnostic
+FDA
+2
+Annotated Alterations
+Oncogenic
+47
+Resistance
+24
+Neutral
+17
+Inconclusive
+16
+Show prevalence data 
+Clinical Implications
+Therapeutic
+Diagnostic
+FDA-Recognized Content
+Cancer type-specific ALK alterations that may predict response to a targeted drug and the corresponding OncoKB™ level of evidence assigning their level of clinical actionability.
+If you notice any mistakes or omissions, please reach out to us. 
+Search ...
+Fusions
+Anaplastic Large-Cell Lymphoma ALK Positive
+Crizotinib
+3
+Fusions
+Inflammatory Myofibroblastic Tumor
+Crizotinib
+5
+Fusions
+Non-Small Cell Lung Cancer
+Alectinib
+5
+Fusions
+Non-Small Cell Lung Cancer
+Brigatinib
+2
+Fusions
+Non-Small Cell Lung Cancer
+Ceritinib
+2
+Fusions
+Non-Small Cell Lung Cancer
+Crizotinib
+1
+Fusions
+Non-Small Cell Lung Cancer
+Ensartinib
+1
+Fusions
+Non-Small Cell Lung Cancer
+Lorlatinib
+6
+Fusions
+Inflammatory Myofibroblastic Tumor
+Alectinib
+1
+Fusions
+Inflammatory Myofibroblastic Tumor
+Brigatinib
+1
+Fusions
+Inflammatory Myofibroblastic Tumor
+Ceritinib
+2
+Fusions
+Inflammatory Myofibroblastic Tumor
+Lorlatinib
+3
+G1202R
+Non-Small Cell Lung Cancer
+Lorlatinib
+1
+L1196M
+Non-Small Cell Lung Cancer
+Lorlatinib
+1
+F1174C
+Neuroblastoma
+Lorlatinib
+1
+F1174L
+Neuroblastoma
+Lorlatinib
+3
+F1245V
+Neuroblastoma
+Lorlatinib
+1
+F1245Y
+Neuroblastoma
+Lorlatinib
+1
+Fusions
+Non-Small Cell Lung Cancer
+Neladalkib
+2
+G1202R
+Non-Small Cell Lung Cancer
+Neladalkib
+2
+R1275L
+Neuroblastoma
+Lorlatinib
+1
+R1275Q
+Neuroblastoma
+Lorlatinib
+3
+C1156Y
+Non-Small Cell Lung Cancer
+Crizotinib
+8
+G1202R
+Non-Small Cell Lung Cancer
+Alectinib
+6
+G1202R
+Non-Small Cell Lung Cancer
+Brigatinib
+3
+G1202R
+Non-Small Cell Lung Cancer
+Ceritinib
+5
+G1202R
+Non-Small Cell Lung Cancer
+Crizotinib
+4
+G1269A
+Non-Small Cell Lung Cancer
+Crizotinib
+8
+I1171N
+Non-Small Cell Lung Cancer
+Alectinib
+7
+L1196M
+Non-Small Cell Lung Cancer
+Crizotinib
+8
+Loading...
+Annotated Alterations
+Oncogenic and mutation effects of all OncoKB™ curated ALK alterations.
+Search ...
+ALK-DYSF Fusion
+Likely Oncogenic
+Likely Gain-of-function
+ALK-GCC2 Fusion
+Likely Oncogenic
+Likely Gain-of-function
+ALK-ITGAV Fusion
+Likely Oncogenic
+Likely Gain-of-function
+ALK-MTUS2 Fusion
+Likely Oncogenic
+Likely Gain-of-function
+Alternative Transcription Initation
+Likely Oncogenic
+Likely Gain-of-function
+Amplification
+Likely Oncogenic
+Likely Gain-of-function
+ATIC-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+BABAM2-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+CAD-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+CARS1-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+DCTN1-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+EML4-ALK Fusion
+Oncogenic
+Gain-of-function
+Fusions
+Likely Oncogenic
+Likely Gain-of-function
+HIP1-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+KIF5B-ALK Fusion
+Likely Oncogenic
+Gain-of-function
+NPM1-ALK Fusion
+Oncogenic
+Gain-of-function
+R3HDM2-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+RANBP2-ALK Fusion
+Oncogenic
+Gain-of-function
+STRN-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+STRN3-ALK Fusion
+Likely Oncogenic
+Likely Gain-of-function
+TPM3-ALK Fusion
+Oncogenic
+Gain-of-function
+R291C
+Inconclusive
+Inconclusive
+R401L
+Likely Oncogenic
+Likely Gain-of-function
+R401Q
+Likely Neutral
+Likely Neutral
+V597A
+Likely Oncogenic
+Gain-of-function
+H694R
+Likely Oncogenic
+Gain-of-function
+G881D
+Likely Oncogenic
+Gain-of-function
+R1060H
+Likely Neutral
+Likely Neutral
+K1062M
+Oncogenic
+Gain-of-function
+Q1064R
+Resistance
+Inconclusive
+T1087I
+Likely Neutral
+Likely Neutral
+D1091N
+Likely Neutral
+Likely Neutral
+A1099T
+Likely Neutral
+Likely Neutral
+R1113Q
+Inconclusive
+Inconclusive
+L1122V
+Resistance
+Inconclusive
+G1123D
+Inconclusive
+Inconclusive
+G1123S
+Inconclusive
+Inconclusive
+G1128A
+Oncogenic
+Gain-of-function
+G1128S
+Inconclusive
+Inconclusive
+E1129V
+Inconclusive
+Inconclusive
+P1139S
+Resistance
+Inconclusive
+T1151dup
+Resistance
+Inconclusive
+T1151K
+Resistance
+Inconclusive
+T1151M
+Resistance
+Inconclusive
+T1151R
+Inconclusive
+Inconclusive
+L1152P
+Resistance
+Inconclusive
+L1152R
+Resistance
+Inconclusive
+C1156F
+Resistance
+Inconclusive
+C1156Y
+Resistance
+Inconclusive
+D1160H
+Inconclusive
+Inconclusive
+E1161D
+Inconclusive
+Inconclusive
+M1166R
+Likely Oncogenic
+Likely Gain-of-function
+I1170N
+Likely Oncogenic
+Likely Gain-of-function
+I1170S
+Likely Oncogenic
+Likely Gain-of-function
+I1171N
+Likely Oncogenic
+Gain-of-function
+I1171S
+Resistance
+Inconclusive
+I1171T
+Resistance
+Inconclusive
+F1174C
+Likely Oncogenic
+Likely Gain-of-function
+F1174I
+Likely Oncogenic
+Gain-of-function
+F1174L
+Oncogenic
+Gain-of-function
+F1174S
+Likely Oncogenic
+Gain-of-function
+F1174V
+Likely Oncogenic
+Gain-of-function
+N1178H
+Resistance
+Inconclusive
+V1180L
+Resistance
+Inconclusive
+I1183T
+Likely Neutral
+Likely Neutral
+R1192P
+Likely Oncogenic
+Gain-of-function
+L1196M
+Likely Oncogenic
+Likely Gain-of-function
+L1196Q
+Resistance
+Inconclusive
+E1197K
+Inconclusive
+Inconclusive
+L1198F
+Likely Oncogenic
+Gain-of-function
+L1198P
+Resistance
+Inconclusive
+A1200V
+Likely Neutral
+Likely Neutral
+G1201E
+Inconclusive
+Inconclusive
+G1202R
+Resistance
+Inconclusive
+D1203N
+Resistance
+Inconclusive
+L1204F
+Likely Neutral
+Likely Neutral
+S1206C
+Resistance
+Inconclusive
+S1206F
+Inconclusive
+Inconclusive
+S1206R
+Resistance
+Inconclusive
+S1206Y
+Resistance
+Inconclusive
+E1210K
+Resistance
+Inconclusive
+E1210Q
+Inconclusive
+Inconclusive
+P1213H
+Inconclusive
+Inconclusive
+R1231Q
+Likely Neutral
+Likely Neutral
+A1234T
+Likely Neutral
+Likely Neutral
+E1242K
+Likely Neutral
+Likely Neutral
+F1245C
+Likely Oncogenic
+Gain-of-function
+F1245V
+Likely Oncogenic
+Gain-of-function
+F1245Y
+Likely Oncogenic
+Likely Gain-of-function
+I1250T
+Likely Neutral
+Likely Neutral
+G1269A
+Likely Oncogenic
+Gain-of-function
+G1269S
+Resistance
+Inconclusive
+D1270G
+Likely Neutral
+Neutral
+R1275L
+Likely Oncogenic
+Likely Gain-of-function
+R1275Q
+Oncogenic
+Gain-of-function
+Y1278S
+Likely Oncogenic
+Gain-of-function
+G1286R
+Likely Neutral
+Likely Neutral
+M1328I
+Resistance
+Inconclusive
+P1329S
+Inconclusive
+Inconclusive
+N1335K
+Inconclusive
+Inconclusive
+T1343I
+Likely Neutral
+Likely Neutral
+D1349H
+Likely Neutral
+Likely Neutral
+E1384K
+Likely Oncogenic
+Gain-of-function
+R1464*
+Likely Neutral
+Likely Neutral
+Loading...
+Please review the terms of use before continuing.
+When using OncoKB™, please cite: Suehnholz et al., Cancer Discovery 2024 and Chakravarty et al., JCO PO 2017.
+MSK
+CMO
+cBioPortal
+OncoTree
+mskcc-logo
+Terms of UseContact UsLinkedInAPIPrivacyCookie Settings
+Last data update: 02/27/2026
+© 2026 Memorial Sloan Kettering Cancer Center
